@@ -1,4 +1,4 @@
-<h1>ML-Based-Phishing-Detection-PhishEagle</h1>
+<h1>ML-Based-Phishing-Detection(PhishEagle)</h1>
 <h3>🚀 Project Summary</h3>
 <p>We have developed a “PhishEagle” phishing detection system using a 
 <strong>random forest (RF) model</strong>.<br> 

@@ -1,7 +1,7 @@
 <h1>Phishing Detection Extension -PhishEagle</h1>
 <h3>🚀 Project Summary</h3>
 <p>We have developed a “PhishEagle” phishing detection system using a 
-random forest (RF) mode.<br> 
+<strong>random forest (RF) mode</strong>.<br> 
 The model has been trained on significant Mendeley 
 datasets_2020 ,and has demonstrated considerable advantages in accurately detecting 
 phishing attempts.<br>
@@ -15,8 +15,6 @@ improving user protection</p>
 <h4>To Run the program:</h4>
 <pre>
 1- download flask and run it to get the localserver, insert the localserver into popup.js file in line 14
-
 2- open developer mode in chrome extensions and load the files 
-
 3- run app.py and you can use the extension
 </pre>

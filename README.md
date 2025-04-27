@@ -2,14 +2,14 @@
 <h3>🚀 Project Summary</h3>
 <p>We have developed a “PhishEagle” phishing detection system using a 
 <strong>random forest (RF) mode</strong>.<br> 
-The model has been trained on significant Mendeley 
-datasets_2020 ,and has demonstrated considerable advantages in accurately detecting 
+The model has been trained on significant<strong> Mendeley 
+datasets_2020 </strong>,and has demonstrated considerable advantages in accurately detecting 
 phishing attempts.<br>
 By analysing the critical features of the site's URL, the system can 
 distinguish between legitimate and malicious sites.<br>
 Our comprehensive evaluation showed 
-a high 99.4% accuracy and makes it a reliable tool for phishing detection.
-<br>We have integrated “PhishEagle” into Chrome's web extension, allowing real-time detection and 
+a <strong>high 99.4% accuracy </strong>and makes it a reliable tool for phishing detection.
+<br>We have integrated <strong>“PhishEagle” into Chrome's web extension</strong> ,allowing real-time detection and 
 improving user protection</p>
 
 <h4>To Run the program:</h4>

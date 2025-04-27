@@ -1,4 +1,4 @@
-<h1>Phishing Detection Extension -PhishEagle<h1>
+Phishing Detection Extension -PhishEagle
 - To Run the program:
 
 1- download flask and run it to get the localserver, insert the localserver into popup.js file in line 14

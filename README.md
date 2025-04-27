@@ -1,5 +1,5 @@
-#**Phishing Detection Extension -PhishEagle**
-##**🚀 Project Summary**
+<h1>**Phishing Detection Extension -PhishEagle**</h1>
+<h3>**🚀 Project Summary**</h3>
 We have developed a “PhishEagle” phishing detection system using a 
 * *random forest (RF) model* *. The model has been trained on significant * *Mendeley 
 datasets_2020 * *,
